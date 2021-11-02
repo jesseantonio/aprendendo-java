@@ -1,0 +1,20 @@
+7) Faça um procedimento que lê 50 valores inteiros e retorna o maior e o menor deles. 
+Utilize a função Math.random() para gerar valores aleatórios entre 1-1000.
+
+8) Faça uma função que recebe a idade de uma pessoa em anos (365 dias), meses e dias e retorna essa idade expressa em dias.
+
+9) Faça uma função que recebe, por parâmetro, um valor inteiro e positivo e retorna o número de divisores 
+desse valor.
+
+10) Faça uma função que receba um valor inteiro e positivo e calcule o seu fatorial.
+
+11) Faça uma função que verifique se um valor é perfeito ou não. Um valor é dito perfeito quando ele é igual a 
+soma dos seus divisores excetuando ele próprio. (Ex: 6 é perfeito, 6 = 1 + 2 + 3, que são seus divisores). 
+A função deve retornar um valor booleano. Receba um valor do usuário e mostre o resultado da função.
+
+12) Faça um procedimento que recebe 50 valores inteiros por parâmetro e retorna-os ordenados em ordem decrescente.
+Gere 50 valores aleatórios com a função Math.random(), adicione-os em um vetor e mostre eles na tela antes da
+ordenação e após a ordenação.
+
+13) Faça uma função que recebe por parâmetro os valores necessários para o cálculo da fórmula de bhaskara e 
+retorna as suas raízes, caso seja possível calcular. Peça os valores necessários para o usuário e teste a função.
